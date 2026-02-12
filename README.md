@@ -1,2 +1,3 @@
 # fuzzy-pancake
-this is my first repo.. 
+this is my first repo..
+author - Line 
